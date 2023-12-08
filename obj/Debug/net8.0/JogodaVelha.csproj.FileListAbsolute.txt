@@ -1,0 +1,14 @@
+C:\Users\vitor.ulrich\Desktop\JogodaVelha\bin\Debug\net8.0\JogodaVelha.exe
+C:\Users\vitor.ulrich\Desktop\JogodaVelha\bin\Debug\net8.0\JogodaVelha.deps.json
+C:\Users\vitor.ulrich\Desktop\JogodaVelha\bin\Debug\net8.0\JogodaVelha.runtimeconfig.json
+C:\Users\vitor.ulrich\Desktop\JogodaVelha\bin\Debug\net8.0\JogodaVelha.dll
+C:\Users\vitor.ulrich\Desktop\JogodaVelha\bin\Debug\net8.0\JogodaVelha.pdb
+C:\Users\vitor.ulrich\Desktop\JogodaVelha\obj\Debug\net8.0\JogodaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.ulrich\Desktop\JogodaVelha\obj\Debug\net8.0\JogodaVelha.AssemblyInfoInputs.cache
+C:\Users\vitor.ulrich\Desktop\JogodaVelha\obj\Debug\net8.0\JogodaVelha.AssemblyInfo.cs
+C:\Users\vitor.ulrich\Desktop\JogodaVelha\obj\Debug\net8.0\JogodaVelha.csproj.CoreCompileInputs.cache
+C:\Users\vitor.ulrich\Desktop\JogodaVelha\obj\Debug\net8.0\JogodaVelha.dll
+C:\Users\vitor.ulrich\Desktop\JogodaVelha\obj\Debug\net8.0\refint\JogodaVelha.dll
+C:\Users\vitor.ulrich\Desktop\JogodaVelha\obj\Debug\net8.0\JogodaVelha.pdb
+C:\Users\vitor.ulrich\Desktop\JogodaVelha\obj\Debug\net8.0\JogodaVelha.genruntimeconfig.cache
+C:\Users\vitor.ulrich\Desktop\JogodaVelha\obj\Debug\net8.0\ref\JogodaVelha.dll
